@@ -41,9 +41,9 @@ h3 {
 
 div.gallery {
     margin: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid #111010;
     float: left;
-    width: 180px;
+    width: 265px;
 }
 
 div.gallery:hover {
@@ -51,7 +51,7 @@ div.gallery:hover {
 }
 
 div.gallery img {
-    width: 100%;
+    width: 80%;
     height: auto;
 }
 
@@ -63,7 +63,7 @@ div.desc {
 
 .footer {
     background-color: #0a91a875;
-    padding: 10px;
+    padding: 0px;
     text-align: center;
     font-family: "Times New Roman", serif;
     font-size: 12px;
@@ -74,60 +74,15 @@ section {
 #image1 {
     width: 400px;
     height: 300px;
-    isplay: block;
+    /* display: block; */
     margin: 0 auto;
 }
 ul {
     text-align: left;
     font-size: 16px;
 }
-ol {
+ .cricket-facts-list{
     text-align: left;
-    font-size: 16px;
+    margin-top: 350px;
+    font-size: 18px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.left
-
-{float: left; }
-  /* <h1 class="center">Red and center-aligned heading</h1>
-<p class="center">Red and center-aligned paragraph.</p> */
-
-  #para1 {
-    text-align: center;
-    color: red;
-  } 
-  /* <p id="para1">Hello World!</p>
-  <p>This paragraph is not affected by the style.</p> */
-
-  p.center {
-    text-align: center;
-    color: red;
-  }
-  /* <h1 class="center">This heading will not be affected</h1>
-<p class="center">This paragraph will be red and center-aligned.</p>  */
-
-p.center {
-    text-align: center;
-    color: red;
-  }
-  
-  p.large {
-    font-size: 300%;
-  }
-  /* <h1 class="center">This heading will not be affected</h1>
-<p class="center">This paragraph will be red and center-aligned.</p>
-<p class="center large">This paragraph will be red, center-aligned, and in a large font-size.</p> */
