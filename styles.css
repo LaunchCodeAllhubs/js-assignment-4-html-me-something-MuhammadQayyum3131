@@ -5,10 +5,23 @@
     font-family: "Times New Roman", serif;
 }
 
+#mainHeading {
+    color: red;
+}
+
+#testP {
+    color: green;
+}
+ .funParagraph {
+    font-style: italic;
+    text-align: center;
+ }
+
 body {
-    margin: 25px;
+    margin: 8px;
+    display:block;
     padding: 10px;
-    background-color: #a08798b7;
+    background-color: #97888ab7;
     font-family: arial, sans-serif;
     font-size: 14px;
 }
