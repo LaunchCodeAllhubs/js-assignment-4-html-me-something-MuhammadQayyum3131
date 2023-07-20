@@ -5,16 +5,23 @@
     font-family: "Times New Roman", serif;
 }
 
+article {
+    background-color: #747480;
+}
+
 #mainHeading {
     color: red;
 }
 
 #testP {
-    color: green;
+    color: rgb(156, 191, 236);
+    background-color: rgb(155, 128, 155);
+    font-size: 1.5em;
 }
  .funParagraph {
-    font-style: italic;
-    text-align: center;
+    background-color: rgb(156, 191, 236);
+    color: green;
+    font-size: 1.5em;
  }
 
 body {
