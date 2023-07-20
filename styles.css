@@ -1,1 +1,110 @@
-/* Write your CSS here! */
+.header {
+    background-color: #ffffff75;
+    padding: 40px;
+    text-align: center;
+    font-family: "Times New Roman", serif;
+}
+
+article {
+    background-color: #747480;
+}
+p {
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+
+#mainHeading {
+    color: red;
+}
+
+#testP {
+    /* color: rgb(156, 191, 236); */
+    background-color: rgb(155, 128, 155);
+    font-size: 1.5em;
+}
+.funParagraph {
+    color: green;
+    font-size: 1.5em;
+ }
+
+body {
+    margin: 8px;
+    display:block;
+    padding: 10px;
+    background-color: #97888ab7;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+
+img {
+    border: 5px solid #555;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 25px;
+    text-align: center;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #111010;
+    float: left;
+    width: 265px;
+}
+
+div.gallery:hover {
+    border: 5px solid #0c0000;
+}
+
+div.gallery img {
+    width: 80%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.footer {
+    background-color: #0a91a875;
+    padding: 10px;
+    text-align: center;
+    font-family: "Times New Roman", serif;
+    font-size: 12px;
+}
+
+section {
+    text-align: center;
+}
+#image1 {
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+ul {
+    text-align: left;
+    font-size: 18px;
+}
+
+ .cricket-facts-list{
+    padding: 20px;
+    text-align: left;
+    margin-top: 350px;
+    font-size: 18px;
+}
