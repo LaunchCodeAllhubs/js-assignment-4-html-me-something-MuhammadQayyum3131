@@ -8,18 +8,22 @@
 article {
     background-color: #747480;
 }
+p {
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
 
 #mainHeading {
     color: red;
 }
 
 #testP {
-    color: rgb(156, 191, 236);
+    /* color: rgb(156, 191, 236); */
     background-color: rgb(155, 128, 155);
     font-size: 1.5em;
 }
- .funParagraph {
-    background-color: rgb(156, 191, 236);
+.funParagraph {
     color: green;
     font-size: 1.5em;
  }
@@ -31,12 +35,6 @@ body {
     background-color: #97888ab7;
     font-family: arial, sans-serif;
     font-size: 14px;
-}
-
-p {
-    font-size: 20px;
-    text-align: center;
-    color: black;
 }
 
 img {
